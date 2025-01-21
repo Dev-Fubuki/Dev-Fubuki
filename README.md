@@ -97,20 +97,17 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Dev-Fubuki&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="border-radius: 10px;" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Fubuki&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+  <img 
+    alt="Linguagens Mais Usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Fubuki&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+    style="border-radius: 10px;" 
   />
-
-</p>
+</div>
