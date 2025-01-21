@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Moreira
+# 👨🏽‍💻 Gabriel Moreira
 
 **`Desenvolvedora FullStack`**
 
