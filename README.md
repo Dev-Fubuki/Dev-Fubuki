@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Gabriel Moreira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 🌎 São Paulo, Brasil | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º Semestre - IFSC)
 <br/>
