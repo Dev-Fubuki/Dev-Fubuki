@@ -111,7 +111,7 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
       <img 
         alt="Linguagens Mais Usadas" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Fubuki&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Fubuki&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
       />
     </td>
   </tr>
