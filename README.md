@@ -94,7 +94,9 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
   />
 
 <br/>
-<br/>
+<br/> 
+
+---
 
 ### 📊 Estatísticas
 
@@ -104,15 +106,25 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Dev-Fubuki&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  
+        src="https://github-readme-stats.vercel.app/api?username=Dev-Fubuki&theme=chartreuse-dark&hide=prs,issues,contribs&show_icons=true"  
       />
     </td>
     <td>
       <img 
         alt="Linguagens Mais Usadas" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Fubuki&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Fubuki&theme=chartreuse-dark&layout=compact&custom_title=Linguagens&langs_count=9" 
       />
     </td>
   </tr>
 </table>
+
+---
+
+### 📁 Repositórios 
+
+<img 
+    alt=""
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-IMC" 
+/>
