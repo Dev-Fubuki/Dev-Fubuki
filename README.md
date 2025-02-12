@@ -62,6 +62,14 @@ Gosto de aprender novas tecnologias, solucionar problemas e construir sistemas q
 />
 <img 
     align="left" 
+    alt="HandleBars"
+    title="HandleBars" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySql"
     title="MySql" 
     width="30px" 
@@ -92,6 +100,14 @@ Gosto de aprender novas tecnologias, solucionar problemas e construir sistemas q
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
   />
+  <img 
+    align="left" 
+    alt="Prisma"
+    title="Prisma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
 
 <br/>
 <br/> 
