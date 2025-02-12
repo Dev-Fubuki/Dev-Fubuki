@@ -142,11 +142,11 @@ Gosto de aprender novas tecnologias, solucionar problemas e construir sistemas q
 <table>
     <tr>
         <td>
-<a href="https://github.com/Dev-Fubuki/Calculadora-IMC" target="_blank">
+<a href="https://github.com/Dev-Fubuki/Calculadora-FullStack" target="_blank">
     <img 
         alt=""
         height="150"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-IMC"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-FullStack"
         </a>
 </td>
     <td>
