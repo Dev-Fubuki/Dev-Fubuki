@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-🌎 São Paulo, Brasil | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º Semestre - IFSC)
+🌎 Santa Catarina, Brasil | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º Semestre - IFSC)
 <br/>
 Entusiasta de tecnologia e apaixonado por explorar novas possibilidades criativas. Desde cedo, minha curiosidade me impulsionou a aprender, e hoje encontro na tecnologia a ferramenta perfeita para transformar ideias em realidade.
 Atualmente, estou focado no desenvolvimento de soluções que unem criatividade e funcionalidade, sempre buscando expandir meus conhecimentos e contribuir para projetos inovadores.
