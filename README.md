@@ -128,9 +128,9 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
         alt=""
         height="150"
         src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-IMC"
-    | !
-<a href="
-https://github.com/Dev-Fubuki/LaughBytes" target="_blank">
+        /a>
+    
+<a href="https://github.com/Dev-Fubuki/LaughBytes" target="_blank">
     <img 
         alt=""
         height="150"
