@@ -123,17 +123,24 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
 
 ### 📁 Repositórios 
 
+<table>
+    <tr>
+        <td>
 <a href="https://github.com/Dev-Fubuki/Calculadora-IMC" target="_blank">
     <img 
         alt=""
         height="150"
         src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-IMC"
-        /a>
-    
+        </a>
+</td>
+    <td>
 <a href="https://github.com/Dev-Fubuki/LaughBytes" target="_blank">
     <img 
         alt=""
         height="150"
         src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=LaughBytes"
     />
+    </td>
+</tr>
 </a>
+</table>
