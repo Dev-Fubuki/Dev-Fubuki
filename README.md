@@ -10,7 +10,7 @@ Atualmente, estou focado no desenvolvimento de soluções que unem criatividade 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌐 Linguagens e Tecnologias
 
 <img 
     align="left" 
