@@ -142,21 +142,47 @@ Gosto de aprender novas tecnologias, solucionar problemas e construir sistemas q
 <table>
     <tr>
         <td>
-<a href="https://github.com/Dev-Fubuki/Calculadora-FullStack" target="_blank">
-    <img 
-        alt=""
-        height="150"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-FullStack"
-        </a>
-</td>
-    <td>
-<a href="https://github.com/Dev-Fubuki/LaughBytes" target="_blank">
-    <img 
-        alt=""
-        height="150"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=LaughBytes"
-    />
-    </td>
-</tr>
-</a>
+            <a href="https://github.com/Dev-Fubuki/Calculadora-FullStack" target="_blank">
+                <img 
+                    alt="Calculadora FullStack"
+                    height="150"
+                    style="width: 100%;"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=Calculadora-FullStack"
+                />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/Dev-Fubuki/LaughBytes" target="_blank">
+                <img 
+                    alt="LaughBytes"
+                    height="150"
+                    style="width: 100%;"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=LaughBytes"
+                />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Dev-Fubuki/HandleBars-Cms" target="_blank">
+                <img 
+                    alt="HandleBars CMS"
+                    height="150"
+                    style="width: 100%;"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=HandleBars-Cms"
+                />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/Dev-Fubuki/JogoDaMemoria-IFSC" target="_blank">
+                <img 
+                    alt="Jogo da Memória IFSC"
+                    height="150"
+                    style="width: 100%;"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Fubuki&repo=JogoDaMemoria-IFSC"
+                />
+            </a>
+        </td>
+    </tr>
 </table>
+
