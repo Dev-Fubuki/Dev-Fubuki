@@ -1,11 +1,10 @@
 # 👨🏽‍💻 Gabriel Moreira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Stack MERN `**
 
 🌎 Santa Catarina, Brasil | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º Semestre - IFSC)
 <br/>
-Desde cedo, minha curiosidade me levou a explorar como as coisas funcionam, e foi na tecnologia que encontrei o melhor meio para expressar minha criatividade. Meu foco está no desenvolvimento de soluções que unem criatividade e funcionalidade, sempre buscando escrever código limpo, escalável e eficiente.
-Gosto de aprender novas tecnologias, solucionar problemas e construir sistemas que realmente façam a diferença. 
+Desde cedo, minha curiosidade me levou a explorar como as coisas funcionam, e foi na tecnologia que encontrei o melhor meio para expressar minha criatividade.Sou apaixonado por desenvolver soluções que unem funcionalidade e uma experiência excepcional para o usuário. Meu foco está na criação de sistemas escaláveis, eficientes e com código limpo, sempre buscando as melhores práticas e tecnologias para entregar soluções robustas. Gosto de aprender novas tecnologias, solucionar problemas e construir sistemas que realmente façam a diferença. 
 
 
 ---
